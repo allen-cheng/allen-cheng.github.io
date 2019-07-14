@@ -3,7 +3,7 @@
 name: Allen Cheng
 
 # Username (this should match the folder name)
-authors:
+authors: allen-cheng
 - admin
 
 # Is this the primary user of the site?
