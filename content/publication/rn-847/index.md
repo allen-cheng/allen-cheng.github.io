@@ -1,0 +1,13 @@
+---
+title: "Overwhelming post-splenectomy sepsis in patients with asplenia and hyposplenia: a retrospective cohort study"
+date: 2016-01-01
+publishDate: 2019-07-14T01:34:06.906560Z
+authors: ["J. Chong", "P. Jones", "D. Spelman", "K. Leder", "A. C. Cheng"]
+publication_types: ["2"]
+abstract: ""
+featured: false
+publication: "*Epidemiology and Infection*"
+url_pdf: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84992451343&doi=10.1017%2fS0950268816002405&partnerID=40&md5=557e456d266c5d03189a397f39630aa2 https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FC0F03BDD0038C5C0A2463B03FD991A2/S0950268816002405a.pdf/div-class-title-overwhelming-post-splenectomy-sepsis-in-patients-with-asplenia-and-hyposplenia-a-retrospective-cohort-study-div.pdf"
+doi: "10.1017/S0950268816002405"
+---
+

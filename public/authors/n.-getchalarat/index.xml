@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N. Getchalarat on Academic</title>
+    <link>/authors/n.-getchalarat/</link>
+    <description>Recent content in N. Getchalarat on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/n.-getchalarat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A randomized controlled trial of granulocyte colony-stimulating factor for the treatment of severe sepsis due to melioidosis in Thailand</title>
+      <link>/publication/rn-568/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rn-568/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prospective evaluation of a rapid immunochromogenic cassette test for the diagnosis of melioidosis in northeast Thailand</title>
+      <link>/publication/rn-965/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rn-965/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

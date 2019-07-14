@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Weeraratne on Academic</title>
+    <link>/authors/a.-weeraratne/</link>
+    <description>Recent content in A. Weeraratne on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/a.-weeraratne/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Increasing Prevalence and Risk of Chronic Kidney Disease in Human Immunodeficiency Virus-Infected Individuals: Changing Demographics Over a 6-Year Period</title>
+      <link>/publication/rn-1027/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rn-1027/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictors of chronic kidney disease and utility of risk prediction scores in HIV-positive individuals</title>
+      <link>/publication/rn-1012/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rn-1012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

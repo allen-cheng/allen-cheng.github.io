@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. S. Marshall on Academic</title>
+    <link>/authors/h.-s.-marshall/</link>
+    <description>Recent content in H. S. Marshall on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/h.-s.-marshall/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Influenza Epidemiology, Vaccine Coverage and Vaccine Effectiveness in Children Admitted to Sentinel Australian Hospitals in 2017: Results from the PAEDS-FluCAN Collaboration</title>
+      <link>/publication/rn-1129/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rn-1129/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influenza Epidemiology, Vaccine Coverage and Vaccine Effectiveness in Children Admitted to Sentinel Australian Hospitals in 2017: Results from the PAEDS-FluCAN Collaboration</title>
+      <link>/publication/rn-1008/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rn-1008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

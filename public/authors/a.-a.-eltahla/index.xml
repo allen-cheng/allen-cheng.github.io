@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. A. Eltahla on Academic</title>
+    <link>/authors/a.-a.-eltahla/</link>
+    <description>Recent content in A. A. Eltahla on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/a.-a.-eltahla/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Human CD8(&#43;) T cell cross-reactivity across influenza A, B and C viruses</title>
+      <link>/publication/rn-1126/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rn-1126/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clonally diverse CD38(&#43;)HLA-DR(&#43;)CD8(&#43;) T cells persist during fatal H7N9 disease</title>
+      <link>/publication/rn-1021/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rn-1021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

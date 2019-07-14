@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. O&#39;Toole on Academic</title>
+    <link>/authors/j.-otoole/</link>
+    <description>Recent content in J. O&#39;Toole on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/j.-otoole/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Stepped Wedge Cluster-Randomized Trial Assessing the Impact of a Riverbank Filtration Intervention to Improve Access to Safe Water on Health in Rural India</title>
+      <link>/publication/rn-1113/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rn-1113/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of hygiene interventions on acute respiratory infections in childcare, school and domestic settings in low- and middle-income countries: a systematic review</title>
+      <link>/publication/rn-1013/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rn-1013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

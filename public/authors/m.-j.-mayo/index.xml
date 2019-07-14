@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. J. Mayo on Academic</title>
+    <link>/authors/m.-j.-mayo/</link>
+    <description>Recent content in M. J. Mayo on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/m.-j.-mayo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Burkholderia pseudomallei strain type, based on pulsed-field gel electrophoresis, does not determine disease presentation in melioidosis</title>
+      <link>/publication/rn-979/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rn-979/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chlorination and pH of drinking water do not correlate with rates of melioidosis in the Northern Territory, Australia</title>
+      <link>/publication/rn-608/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rn-608/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

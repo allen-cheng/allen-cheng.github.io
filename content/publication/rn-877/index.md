@@ -1,0 +1,13 @@
+---
+title: "The state of TRUS biopsy sepsis: Readmissions to Victorian hospitals with TRUS biopsy-related infection over 5 years"
+date: 2015-01-01
+publishDate: 2019-07-14T01:34:06.986070Z
+authors: ["H. Roth", "J. L. Millar", "A. C. Cheng", "A. Byrne", "S. Evans", "J. Grummet"]
+publication_types: ["2"]
+abstract: ""
+featured: false
+publication: "*BJU International*"
+url_pdf: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-84945572507&doi=10.1111%2fbju.13209&partnerID=40&md5=ec6a83d1568c7d0e5c564037e6f25782 http://onlinelibrary.wiley.com/store/10.1111/bju.13209/asset/bju13209.pdf?v=1&t=iwh7zkco&s=8cd7525a077a7b3a1f14dba328f56439250c1ccd"
+doi: "10.1111/bju.13209"
+---
+

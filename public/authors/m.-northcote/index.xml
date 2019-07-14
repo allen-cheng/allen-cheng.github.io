@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Northcote on Academic</title>
+    <link>/authors/m.-northcote/</link>
+    <description>Recent content in M. Northcote on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/m.-northcote/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reducing urinary catheter use using an electronic reminder system in hospitalized patients: A randomized stepped-wedge trial</title>
+      <link>/publication/rn-1125/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rn-1125/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing urinary catheter use: a protocol for a mixed methods evaluation of an electronic reminder system in hospitalised patients in Australia</title>
+      <link>/publication/rn-1014/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rn-1014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

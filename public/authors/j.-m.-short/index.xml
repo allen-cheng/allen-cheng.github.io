@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. M. Short on Academic</title>
+    <link>/authors/j.-m.-short/</link>
+    <description>Recent content in J. M. Short on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/j.-m.-short/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open-label randomized trial of oral trimethoprim-sulfamethoxazole, doxycycline, and chloramphenicol compared with trimethoprim-sulfamethoxazole and doxycycline for maintenance therapy of melioidosis</title>
+      <link>/publication/rn-590/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rn-590/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trimethoprim/sulfamethoxazole resistance in clinical isolates of Burkholderia pseudomallei</title>
+      <link>/publication/rn-975/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rn-975/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two randomized controlled trials of ceftazidime alone versus ceftazidime in combination with trimethoprim-sulfamethoxazole for the treatment of severe melioidosis</title>
+      <link>/publication/rn-968/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rn-968/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

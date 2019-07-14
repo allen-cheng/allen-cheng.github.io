@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Patel on Academic</title>
+    <link>/authors/r.-patel/</link>
+    <description>Recent content in R. Patel on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/r.-patel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Laboratory Workflow Analysis of Culture of Periprosthetic Tissues in Blood Culture Bottles</title>
+      <link>/publication/rn-1042/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rn-1042/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Periprosthetic Tissue Specimen Number for Diagnosis of Prosthetic Joint Infection</title>
+      <link>/publication/rn-1066/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rn-1066/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved diagnosis of prosthetic joint infection by culturing periprosthetic tissue specimens in blood culture bottles</title>
+      <link>/publication/rn-860/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rn-860/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

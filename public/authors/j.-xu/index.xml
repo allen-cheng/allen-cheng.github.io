@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Xu on Academic</title>
+    <link>/authors/j.-xu/</link>
+    <description>Recent content in J. Xu on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/j.-xu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clonally diverse CD38(&#43;)HLA-DR(&#43;)CD8(&#43;) T cells persist during fatal H7N9 disease</title>
+      <link>/publication/rn-1021/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rn-1021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fc functional antibodies in humans with severe H7N9 and seasonal influenza</title>
+      <link>/publication/rn-1044/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rn-1044/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
